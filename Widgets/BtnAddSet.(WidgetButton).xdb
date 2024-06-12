@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WidgetButton>
+	<Variants>
+		<Item>
+			<Reaction>BtnAddSetClick</Reaction>
+		</Item>
+	</Variants>
+	<Name>BtnAddSet</Name>
+	<Placement>
+		<X>
+			<Pos>20</Pos>
+		</X>
+		<Y>
+			<Align>WIDGET_ALIGN_HIGH</Align>
+			<Pos>0</Pos>
+			<HighPos>42</HighPos>
+		</Y>
+	</Placement>
+	<Header>
+		<Prototype href="EditorCommon/ButtonRegular2/ButtonRegular.Prototype.(WidgetButton).xdb" />
+	</Header>
+</WidgetButton>

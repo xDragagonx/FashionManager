@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WidgetTextView>
+	<FormatFileRef href="EditLineInputTxtPlaceholder.txt" />
+	<Name>EditLineInputTxtPlaceholder</Name>
+	<Placement>
+		<X>
+			<Align>WIDGET_ALIGN_BOTH</Align>
+			<Sizing>WIDGET_SIZING_INTERNAL</Sizing>
+		</X>
+		<Y>
+			<Align>WIDGET_ALIGN_BOTH</Align>
+			<Sizing>WIDGET_SIZING_INTERNAL</Sizing>
+			<Pos>5</Pos>
+		</Y>
+	</Placement>
+	<TransparentInput>true</TransparentInput>
+	<TextValues>
+		<Item>
+			<Tag>value</Tag>
+			<TagValueFileRef href="EditLineInputTxtPlaceholderValue.txt" />
+		</Item>
+	</TextValues>
+</WidgetTextView>

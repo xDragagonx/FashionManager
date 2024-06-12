@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WidgetPanel>
+	<Name>MsgBox</Name>
+	<Header>
+		<Prototype href="EditorCommon/MsgBox/MsgBoxShaded.Prototype.(WidgetPanel).xdb" />
+	</Header>
+	<Children>
+		<Item href="EditLineInputTxt.(WidgetEditLine).xdb" />
+	</Children>
+	<Placement>
+		<X>
+			<Align>WIDGET_ALIGN_LOW</Align>
+			<Pos>120</Pos>
+			<Size>270</Size>
+		</X>
+		<Y>
+			<Align>WIDGET_ALIGN_HIGH</Align>
+			<Pos>0</Pos>
+			<HighPos>34</HighPos>
+			<Size>48</Size>
+		</Y>
+	</Placement>
+	<Priority>1</Priority>
+</WidgetPanel>

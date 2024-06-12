@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WidgetEditLine>
+	<Name>EditLineInputTxt</Name>
+	<Placement>
+		<X>
+			<Align>WIDGET_ALIGN_CENTER</Align>
+			<Pos>4</Pos>
+			<Size>240</Size>
+		</X>
+		<Y>
+			<Align>WIDGET_ALIGN_CENTER</Align>
+			<Pos>-2</Pos>
+		</Y>
+	</Placement>
+	<Header>
+		<Prototype href="EditorCommon/EditLine/EditLine.Prototype.(WidgetEditLine).xdb" />
+	</Header>
+	<ReactionEnter>EditLineInputTxtReactionEnter</ReactionEnter>
+	<placeholder href="EditLineInputTxtPlaceholder.(WidgetTextView).xdb" />
+	<ReactionEsc>EditLineInputTxtReactionEsc</ReactionEsc>
+</WidgetEditLine>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WidgetButton>
+	<Variants>
+		<Item>
+			<Reaction>BtnCallClick</Reaction>
+		</Item>
+	</Variants>
+	<Name>BtnCall</Name>
+	<Placement>
+		<X>
+			<Align>WIDGET_ALIGN_CENTER</Align>
+			<Size>40</Size>
+		</X>
+	</Placement>
+	<Header>
+		<Prototype href="EditorCommon/ButtonRegular2/ButtonRegular.Prototype.(WidgetButton).xdb" />
+	</Header>
+</WidgetButton>

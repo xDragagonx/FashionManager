@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WidgetPanel>
+	<Name>ListEntry</Name>
+	<Header>
+		<Prototype href="EditorCommon/ListEntry/ListEntry.Prototype.(WidgetPanel).xdb" />
+	</Header>
+	<Children>
+		<Item href="EntryListContentFrame.(WidgetPanel).xdb" />
+		<Item href="BtnEquip.(WidgetButton).xdb" />
+		<Item href="BtnDelete.(WidgetButton).xdb" />
+		<Item href="BtnOverwrite.(WidgetButton).xdb" />
+	</Children>
+</WidgetPanel>

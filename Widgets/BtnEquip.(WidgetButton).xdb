@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WidgetButton>
+	<Variants>
+		<Item>
+			<Reaction>BtnEquipClick</Reaction>
+		</Item>
+	</Variants>
+	<Name>BtnEquip</Name>
+	<Placement>
+		<X>
+			<Pos>40</Pos>
+		</X>
+		<Y>
+			<Pos>13</Pos>
+		</Y>
+	</Placement>
+	<Header>
+		<Prototype href="EditorCommon/ScrollBars/ButtonScrollLeftDouble.Prototype.(WidgetButton).xdb" />
+	</Header>
+</WidgetButton>

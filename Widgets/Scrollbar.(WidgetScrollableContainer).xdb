@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WidgetScrollableContainer>
+	<Name>Scrollbar</Name>
+	<Priority>4000</Priority>
+	<Placement>
+		<X>
+			<Align>WIDGET_ALIGN_BOTH</Align>
+			<Pos>25</Pos>
+			<HighPos>15</HighPos>
+		</X>
+		<Y>
+			<Align>WIDGET_ALIGN_BOTH</Align>
+			<Pos>50</Pos>
+			<HighPos>80</HighPos>
+		</Y>
+	</Placement>
+	<Header>
+		<Prototype href="EditorCommon/Containers/Container.Prototype.(WidgetScrollableContainer).xdb" />
+	</Header>
+</WidgetScrollableContainer>

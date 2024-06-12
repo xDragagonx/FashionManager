@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WidgetButton>
+	<Name>BtnDelete</Name>
+	<Placement>
+		<X>
+			<Align>WIDGET_ALIGN_LOW</Align>
+			<Pos>165</Pos>
+			<HighPos>0</HighPos>
+			<Size>18</Size>
+		</X>
+		<Y>
+			<Pos>27</Pos>
+			<Size>18</Size>
+		</Y>
+	</Placement>
+	<Header>
+		<Prototype href="EditorCommon/ScrollBars/ButtonScrollRightDouble.Prototype.(WidgetButton).xdb" />
+	</Header>
+</WidgetButton>

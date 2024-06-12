@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WidgetTextView>
+	<FormatFileRef href="ListEntryTxt.txt" />
+	<Name>ListEntryTxt</Name>
+	<Placement>
+		<X>
+			<Align>WIDGET_ALIGN_BOTH</Align>
+			<Sizing>WIDGET_SIZING_INTERNAL</Sizing>
+			<Pos>4</Pos>
+			<HighPos>0</HighPos>
+			<Size>0</Size>
+		</X>
+		<Y>
+			<Align>WIDGET_ALIGN_BOTH</Align>
+			<Sizing>WIDGET_SIZING_INTERNAL</Sizing>
+			<Pos>1</Pos>
+			<Size>0</Size>
+		</Y>
+	</Placement>
+	<TransparentInput>true</TransparentInput>
+	<TextValues>
+		<Item>
+			<Tag>value</Tag>
+			<TagValueFileRef href="ListEntryTxtValue.txt" />
+		</Item>
+	</TextValues>
+</WidgetTextView>

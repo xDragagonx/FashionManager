@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WidgetScrollableContainer>
+	<scrollBar href="ScrollBarVertical.(WidgetGlideScrollBar).xdb" />
+	<elementsInterval>0</elementsInterval>
+	<border href="Border.(WidgetPanel).xdb" />
+	<widgetsArrangement>WIDGETS_ARRANGEMENT_T2B</widgetsArrangement>
+	<Priority>200</Priority>
+	<Placement>
+		<X>
+			<Align>WIDGET_ALIGN_BOTH</Align>
+		</X>
+		<Y>
+			<Align>WIDGET_ALIGN_BOTH</Align>
+		</Y>
+	</Placement>
+	<Header>
+		<isPrototype>true</isPrototype>
+	</Header>
+</WidgetScrollableContainer>

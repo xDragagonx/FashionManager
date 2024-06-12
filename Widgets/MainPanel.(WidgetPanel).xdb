@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WidgetPanel>
+	<Name>MainPanel</Name>
+	<Header>
+		<Prototype href="EditorCommon/Window/Window.Prototype.(WidgetPanel).xdb" />
+	</Header>
+	<Children>
+		<Item href="Scrollbar.(WidgetScrollableContainer).xdb" />
+		<Item href="BtnAddSet.(WidgetButton).xdb" />
+		<Item href="MsgBox.(WidgetPanel).xdb" />
+	</Children>
+	<Placement>
+		<X>
+			<Align>WIDGET_ALIGN_CENTER</Align>
+			<Size>400</Size>
+		</X>
+		<Y>
+			<Align>WIDGET_ALIGN_CENTER</Align>
+		</Y>
+	</Placement>
+</WidgetPanel>
